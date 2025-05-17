@@ -1,8 +1,20 @@
-# React + Vite
+<H1>🌦️ Single Page Weather App</H1>
+A sleek and responsive single-page web application that allows users to check the current weather and forecast for any city in the world. Built with HTML, CSS, and JavaScript — and powered by the OpenWeatherMap API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<H1>🔍 Features</H1>
+🌍 Search weather by city name
 
-Currently, two official plugins are available:
+🌡️ Display current temperature, humidity, and weather conditions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧭 Shows wind speed and direction
+
+🕒 Displays local time based on timezone
+
+🎨 Clean and mobile-friendly UI
+
+🔁 Instant weather updates without page reload
+
+🚀 Live Demo
+🌐 [Live Demo](https://aparup2139.github.io/Weather-app)
+
+
